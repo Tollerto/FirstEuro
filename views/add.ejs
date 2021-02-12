@@ -1,0 +1,18 @@
+<%- include('./partials/head', { title: 'Перший Європейский' }) %>
+  <!-- ⬆ Includes <html> and <head>...</head> ⬆ -->
+
+  <body>
+    <%- include('./partials/navbar', { page: 'add' }) %>
+      <main>
+        <p>
+          Test Text for no reason
+        </p>
+        <form method="post">
+          <textarea id="mytextarea">Hello, World!</textarea>
+        </form>
+      </main>
+      <%- include('./partials/footer') %>
+        <!-- ⬆ Includes <footer>...</footer> ⬆ -->
+  </body>
+
+</html>

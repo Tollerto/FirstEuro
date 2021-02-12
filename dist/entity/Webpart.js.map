@@ -1,0 +1,1 @@
+{"version":3,"file":"Webpart.js","sourceRoot":"","sources":["../../src/entity/Webpart.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,mCAAiE;AAKjE;IAAA;IAYA,CAAC;IAVC;QADC,gCAAsB,CAAC,EAAE,IAAI,EAAE,SAAS,EAAE,CAAC;;uCAChC;IAGZ;QADC,gBAAM,EAAE;;yCACK;IAGd;QADC,gBAAM,EAAE;;0CACM;IAGf;QADC,gBAAM,EAAE;;yCACK;IAXH,OAAO;QADnB,gBAAM,EAAE;OACI,OAAO,CAYnB;IAAD,cAAC;CAAA,AAZD,IAYC;AAZY,0BAAO"}
